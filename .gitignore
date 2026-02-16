@@ -1,0 +1,8 @@
+export/*.csv
+export/*.xlsx
+export/*.parquet
+export/*.png
+
+.venv/
+__pycache__/
+*.pyc
